@@ -1,0 +1,29 @@
+.header{
+    background-color: rebeccapurple;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;
+
+
+}
+.header ul{
+    display: flex;
+}
+.logo{
+    width: 30%;
+    font-size: 30px;
+
+}
+.header ul li{
+    text-transform: uppercase;
+    padding-left: 15px;
+    list-style: none;
+}
+
+.header ul li a{
+   color: white;
+   text-decoration: none;
+}
