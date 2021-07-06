@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <MainNavigation/>
+      <div className="mainwrapper">
       <Switch>
       <Route path='/' exact>
         <AllMeetupPage/> 
@@ -19,6 +20,7 @@ function App() {
         <FavoritesPage/> 
       </Route>
       </Switch>
+      </div>
       
     </div>
   );

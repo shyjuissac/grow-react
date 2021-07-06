@@ -1,0 +1,34 @@
+.allcat{
+    display: flex;
+    justify-content: space-between;
+
+}
+.world{
+width: 30%;
+}
+.world h2{
+    background: rgb(136, 93, 255);
+    padding: 5px 10px;color: white;
+}.world img{
+    width: 100%;
+}
+.india{
+    width: 30%;
+}
+.india h2{
+    background: rgb(136, 93, 255);
+    padding: 5px 10px;
+    color: white;
+}
+.india img{
+    width: 100%;
+}
+.delhi{
+    width: 30%;
+}
+.delhi h2{
+    background: rgb(136, 93, 255);
+    padding: 5px 10px;color: white;
+}.delhi img{
+    width: 100%;
+}
